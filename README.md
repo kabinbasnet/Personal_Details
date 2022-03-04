@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming/Coding
 - 🌱 I’m currently learning Django Python
 - 💞️ I’m looking to collaborate on facebook, youtube, instagram.....
-- 📫 How to reach me gmail-kabinbasnet22@gmail.com, fb-https://www.facebook.com/cobinr
+- 📫 How to reach me gmail- kabinbasnet22@gmail.com, fb-https://www.facebook.com/cobinr
 
 
 <!---
